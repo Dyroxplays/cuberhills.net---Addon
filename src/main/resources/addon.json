@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "cuberhills.net - Addon",
+  "mainClass": "de.dyroxplays.cuberhills.lm_addon.cHaddon",
+  "description": "Dieses Addon ermoeglicht dir interessante Informationen auf dem cuberhills.net Netzwerk anzeigen zu lassen.",
+  "version": 1,
+  "author": "Dyroxplays",
+  "category": 3,
+  "icon": "https://www.cuberhills.net/assets/images/labymod.png"
+}
